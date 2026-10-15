@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "type": { "type": "string" },
+    "capacity": { "type": "integer" },
+    "area": { "type": "string" },
+    "location": {
+      "type": "object",
+      "properties": {
+        "city": { "type": "string" },
+        "postalCode": { "type": "string" },
+        "country": { "type": "string" }
+      }
+    },
+    "facilities": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+
+            {
+                "id": "e060",
+                "title": "Festival Finale",
+                "date": "2026-07-26",
+                "start": "23:00",
+                "end": "00:00",
+                "venueId": "v2",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p060"
+                ]
+            }
+        

@@ -1,0 +1,15 @@
+
+            {
+                "id": "e004",
+                "title": "Dream Gate",
+                "date": "2026-07-24",
+                "start": "17:00",
+                "end": "18:00",
+                "venueId": "v1",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p004"
+                ]
+            }
+        

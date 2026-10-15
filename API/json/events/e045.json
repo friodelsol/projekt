@@ -1,0 +1,15 @@
+
+            {
+                "id": "e045",
+                "title": "Quantum Peak",
+                "date": "2026-07-26",
+                "start": "18:00",
+                "end": "19:00",
+                "venueId": "v1",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p045"
+                ]
+            }
+        

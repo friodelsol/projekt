@@ -1,0 +1,15 @@
+
+            {
+                "id": "e015",
+                "title": "Hard Neon Ritual",
+                "date": "2026-07-24",
+                "start": "18:00",
+                "end": "19:00",
+                "venueId": "v2",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p015"
+                ]
+            }
+        

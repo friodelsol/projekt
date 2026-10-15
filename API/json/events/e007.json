@@ -1,0 +1,15 @@
+
+            {
+                "id": "e007",
+                "title": "Starlit Mainstage",
+                "date": "2026-07-24",
+                "start": "20:00",
+                "end": "21:00",
+                "venueId": "v1",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p007"
+                ]
+            }
+        

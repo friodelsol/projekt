@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "year": { "type": "integer" },
+    "name": { "type": "string" },
+    "edition": { "type": "integer" },
+    "location": {
+      "type": "object",
+      "properties": {
+        "city": { "type": "string" },
+        "country": { "type": "string" }
+      }
+    },
+    "dates": {
+      "type": "object",
+      "properties": {
+        "start": { "type": "string", "format": "date" },
+        "end": { "type": "string", "format": "date" },
+        "days": { "type": "integer" }
+      }
+    },
+    "theme": { "type": "string" },
+    "description": { "type": "string" },
+    "tickets": {
+      "type": "object",
+      "properties": {
+        "standard": { "type": "string" },
+        "vip": { "type": "string" },
+        "earlyBird": { "type": "string" }
+      }
+    },
+    "links": {
+      "type": "array",
+      "items": { "type": "string", "format": "uri" }
+    }
+  },
+  "required": ["id", "name", "edition", "location", "dates", "tickets"]
+}

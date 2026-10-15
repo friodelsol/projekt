@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["meta", "events"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["totalCount", "page", "pageSize", "totalPages"],
+      "properties": {
+        "totalCount": { "type": "integer", "minimum": 0 },
+        "page": { "type": "integer", "minimum": 1 },
+        "pageSize": { "type": "integer", "minimum": 1 },
+        "totalPages": { "type": "integer", "minimum": 1 }
+      }
+    },
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "date", "venueId", "time"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^e[0-9]+$" },
+          "title": { "type": "string" },
+          "date": { "type": "string", "format": "date" },
+          "venueId": { "type": "string" },
+          "time": { "type": "string" }
+        }
+      }
+    }
+  }
+}

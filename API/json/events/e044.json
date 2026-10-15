@@ -1,0 +1,15 @@
+
+            {
+                "id": "e044",
+                "title": "Neon Basilica",
+                "date": "2026-07-26",
+                "start": "17:00",
+                "end": "18:00",
+                "venueId": "v1",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p044"
+                ]
+            }
+        

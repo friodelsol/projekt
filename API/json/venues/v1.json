@@ -1,0 +1,21 @@
+
+            {
+                "id": "v1",
+                "name": "Mainstage - Astral Gate",
+                "type": "Outdoor Stage",
+                "capacity": 20000,
+                "area": "Letna Park",
+                "location": {
+                    "city": "Prague",
+                    "postalCode": "170 00",
+                    "country": "Czech Republic"
+                },
+                "facilities": [
+                    
+                        "Food Court",
+                        "Merch Booth",
+                        "First Aid",
+                        "Water Refill"
+                ]
+            }
+        

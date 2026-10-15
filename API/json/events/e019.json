@@ -1,0 +1,15 @@
+
+            {
+                "id": "e019",
+                "title": "Trance Chamber",
+                "date": "2026-07-24",
+                "start": "22:00",
+                "end": "23:00",
+                "venueId": "v2",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p019"
+                ]
+            }
+        

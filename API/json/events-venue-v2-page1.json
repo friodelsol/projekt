@@ -1,0 +1,84 @@
+
+        
+        {
+        "meta": {
+            "totalCount": 30,
+            "page": 1,
+            "pageSize": 10,
+            "totalPages": 3
+        },
+        "events": [
+            
+                    {
+                        "id": "e011",
+                        "title": "Neon Warmup",
+                        "date": "2026-07-24",
+                        "venueId": "v2",
+                        "time": "14:00 - 15:00"
+                    },
+                    {
+                        "id": "e012",
+                        "title": "Basement Echo",
+                        "date": "2026-07-24",
+                        "venueId": "v2",
+                        "time": "15:00 - 16:00"
+                    },
+                    {
+                        "id": "e013",
+                        "title": "Laser Alley",
+                        "date": "2026-07-24",
+                        "venueId": "v2",
+                        "time": "16:00 - 17:00"
+                    },
+                    {
+                        "id": "e014",
+                        "title": "Bass Tunnel",
+                        "date": "2026-07-24",
+                        "venueId": "v2",
+                        "time": "17:00 - 18:00"
+                    },
+                    {
+                        "id": "e015",
+                        "title": "Hard Neon Ritual",
+                        "date": "2026-07-24",
+                        "venueId": "v2",
+                        "time": "18:00 - 19:00"
+                    },
+                    {
+                        "id": "e016",
+                        "title": "Underground Current",
+                        "date": "2026-07-24",
+                        "venueId": "v2",
+                        "time": "19:00 - 20:00"
+                    },
+                    {
+                        "id": "e017",
+                        "title": "Obsidian Drops",
+                        "date": "2026-07-24",
+                        "venueId": "v2",
+                        "time": "20:00 - 21:00"
+                    },
+                    {
+                        "id": "e018",
+                        "title": "Pulse Workshop",
+                        "date": "2026-07-24",
+                        "venueId": "v2",
+                        "time": "21:00 - 22:00"
+                    },
+                    {
+                        "id": "e019",
+                        "title": "Trance Chamber",
+                        "date": "2026-07-24",
+                        "venueId": "v2",
+                        "time": "22:00 - 23:00"
+                    },
+                    {
+                        "id": "e020",
+                        "title": "Neon Closing",
+                        "date": "2026-07-24",
+                        "venueId": "v2",
+                        "time": "23:00 - 00:00"
+                    }
+        ]
+        }
+    

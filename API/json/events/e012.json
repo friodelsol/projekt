@@ -1,0 +1,15 @@
+
+            {
+                "id": "e012",
+                "title": "Basement Echo",
+                "date": "2026-07-24",
+                "start": "15:00",
+                "end": "16:00",
+                "venueId": "v2",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p012"
+                ]
+            }
+        

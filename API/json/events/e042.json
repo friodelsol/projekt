@@ -1,0 +1,15 @@
+
+            {
+                "id": "e042",
+                "title": "Starlight Live",
+                "date": "2026-07-26",
+                "start": "15:00",
+                "end": "16:00",
+                "venueId": "v1",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p042"
+                ]
+            }
+        

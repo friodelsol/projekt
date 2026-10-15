@@ -1,0 +1,15 @@
+
+            {
+                "id": "e041",
+                "title": "Final Day Opening",
+                "date": "2026-07-26",
+                "start": "14:00",
+                "end": "15:00",
+                "venueId": "v1",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p041"
+                ]
+            }
+        

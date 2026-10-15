@@ -1,0 +1,15 @@
+
+            {
+                "id": "e020",
+                "title": "Neon Closing",
+                "date": "2026-07-24",
+                "start": "23:00",
+                "end": "00:00",
+                "venueId": "v2",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p020"
+                ]
+            }
+        

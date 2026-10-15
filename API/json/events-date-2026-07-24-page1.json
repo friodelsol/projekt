@@ -1,0 +1,84 @@
+
+        
+        {
+        "meta": {
+            "totalCount": 20,
+            "page": 1,
+            "pageSize": 10,
+            "totalPages": 2
+        },
+        "events": [
+            
+                    {
+                        "id": "e001",
+                        "title": "Opening Pulse",
+                        "date": "2026-07-24",
+                        "venueId": "v1",
+                        "time": "14:00 - 15:00"
+                    },
+                    {
+                        "id": "e002",
+                        "title": "Astral Lift",
+                        "date": "2026-07-24",
+                        "venueId": "v1",
+                        "time": "15:00 - 16:00"
+                    },
+                    {
+                        "id": "e003",
+                        "title": "Skyline Drive",
+                        "date": "2026-07-24",
+                        "venueId": "v1",
+                        "time": "16:00 - 17:00"
+                    },
+                    {
+                        "id": "e004",
+                        "title": "Dream Gate",
+                        "date": "2026-07-24",
+                        "venueId": "v1",
+                        "time": "17:00 - 18:00"
+                    },
+                    {
+                        "id": "e005",
+                        "title": "Golden Hour Rave",
+                        "date": "2026-07-24",
+                        "venueId": "v1",
+                        "time": "18:00 - 19:00"
+                    },
+                    {
+                        "id": "e006",
+                        "title": "Orbit Anthem",
+                        "date": "2026-07-24",
+                        "venueId": "v1",
+                        "time": "19:00 - 20:00"
+                    },
+                    {
+                        "id": "e007",
+                        "title": "Starlit Mainstage",
+                        "date": "2026-07-24",
+                        "venueId": "v1",
+                        "time": "20:00 - 21:00"
+                    },
+                    {
+                        "id": "e008",
+                        "title": "Velvet Peak",
+                        "date": "2026-07-24",
+                        "venueId": "v1",
+                        "time": "21:00 - 22:00"
+                    },
+                    {
+                        "id": "e009",
+                        "title": "Midnight Crown",
+                        "date": "2026-07-24",
+                        "venueId": "v1",
+                        "time": "22:00 - 23:00"
+                    },
+                    {
+                        "id": "e010",
+                        "title": "Day 1 Closing",
+                        "date": "2026-07-24",
+                        "venueId": "v1",
+                        "time": "23:00 - 00:00"
+                    }
+        ]
+        }
+    

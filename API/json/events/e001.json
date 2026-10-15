@@ -1,0 +1,15 @@
+
+            {
+                "id": "e001",
+                "title": "Opening Pulse",
+                "date": "2026-07-24",
+                "start": "14:00",
+                "end": "15:00",
+                "venueId": "v1",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p001"
+                ]
+            }
+        

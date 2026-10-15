@@ -1,0 +1,15 @@
+
+            {
+                "id": "e016",
+                "title": "Underground Current",
+                "date": "2026-07-24",
+                "start": "19:00",
+                "end": "20:00",
+                "venueId": "v2",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p016"
+                ]
+            }
+        

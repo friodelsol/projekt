@@ -1,0 +1,15 @@
+
+            {
+                "id": "e009",
+                "title": "Midnight Crown",
+                "date": "2026-07-24",
+                "start": "22:00",
+                "end": "23:00",
+                "venueId": "v1",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p009"
+                ]
+            }
+        

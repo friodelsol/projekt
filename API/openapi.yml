@@ -1,0 +1,276 @@
+openapi: 3.1.0
+info:
+  title: Prague Dreamland Festival API
+  description: API for accessing festival identity, venues, performers, and event programming.
+  version: 1.0.0
+
+servers:
+  - url: http://localhost:8080/API
+    description: Local development server
+
+paths:
+  /api/festival:
+    get:
+      summary: Get general festival information
+      responses:
+        '200':
+          description: Festival identity and general details
+          content:
+            application/json:
+              schema:
+                $ref: './json-schema/festival.json'
+        '400':
+          description: Bad request
+        '404':
+          description: Festival not found
+
+  /api/venues:
+    get:
+      summary: List all venues
+      responses:
+        '200':
+          description: A list of all festival venues
+          content:
+            application/json:
+              schema:
+                $ref: './json-schema/venues.json'
+        '400':
+          description: Bad request
+        '404':
+          description: Venues not found
+
+  /api/venues/{venueId}:
+    get:
+      summary: Get venue details by ID
+      parameters:
+        - name: venueId
+          in: path
+          required: true
+          description: The ID of the venue (e.g., v1)
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Detailed information about a specific venue
+          content:
+            application/json:
+              schema:
+                $ref: './json-schema/venue-by-id.json'
+              examples:
+                v1:
+                  externalValue: './json/venues/v1.json'
+        '400':
+          description: Invalid venue ID format
+        '404':
+          description: Venue not found
+
+  /api/performers:
+    get:
+      summary: List all performers
+      responses:
+        '200':
+          description: A list of all performers and their roles
+          content:
+            application/json:
+              schema:
+                $ref: './json-schema/performers.json'
+        '400':
+          description: Bad request
+        '404':
+          description: Performers not found
+
+  /api/performers/{perfId}:
+    get:
+      summary: Get performer details by ID
+      parameters:
+        - name: perfId
+          in: path
+          required: true
+          description: The ID of the performer (e.g., p001)
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Detailed biography and tags for a performer
+          content:
+            application/json:
+              schema:
+                $ref: './json-schema/performer-by-id.json'
+              examples:
+                p001:
+                  externalValue: './json/performers/p001.json'
+        '400':
+          description: Invalid performer ID format
+        '404':
+          description: Performer not found
+  # 1. TRIPLE FILTER: Date + Venue + Page
+  /api/events-date-{day}-venue-{venueId}-p{page}.json:
+    get:
+      summary: "TRIPLE: Date + Venue + Page"
+      description: "Maps to files like: events-date-2026-07-24-venue-v1-p1.json"
+      parameters:
+        - name: day
+          in: path
+          required: true
+          schema: { type: string, enum: ["2026-07-24", "2026-07-25", "2026-07-26"] }
+        - name: venueId
+          in: path
+          required: true
+          schema: { type: string, enum: [v1, v2] }
+        - name: page
+          in: path
+          required: true
+          schema: { type: integer, enum: [1, 2] }
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema: { $ref: './json-schema/events.json' }
+        '400':
+          description: Bad request - Unsupported parameter combination.
+        '404':
+          description: Pre-generated file not found.
+
+  # 2. DOUBLE FILTER: Date + Venue
+  /api/events-date-{day}-venue-{venueId}.json:
+    get:
+      summary: "DOUBLE: Date + Venue"
+      description: "Maps to files like: events-date-2026-07-24-venue-v1.json"
+      parameters:
+        - name: day
+          in: path
+          required: true
+          schema: { type: string, enum: ["2026-07-24", "2026-07-25", "2026-07-26"] }
+        - name: venueId
+          in: path
+          required: true
+          schema: { type: string, enum: [v1, v2] }
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema: { $ref: './json-schema/events.json' }
+        '400':
+          description: Bad request - Unsupported parameter combination.
+        '404':
+          description: Pre-generated file not found.
+
+  # 3. SINGLE FILTER: Date + Page
+  /api/events-date-{day}-page{page}.json:
+    get:
+      summary: "SINGLE: Date Only"
+      description: "Maps to files like: events-date-2026-07-24-page1.json"
+      parameters:
+        - name: day
+          in: path
+          required: true
+          schema: { type: string, enum: ["2026-07-24", "2026-07-25", "2026-07-26"] }
+        - name: page
+          in: path
+          required: true
+          schema: { type: integer, enum: [1, 2] }
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema: { $ref: './json-schema/events.json' }
+        '400':
+          description: Bad request - Unsupported parameter combination.
+        '404':
+          description: Pre-generated file not found.
+
+  # 4. SINGLE FILTER: Venue + Page
+  /api/events-venue-{venueId}-page{page}.json:
+    get:
+      summary: "SINGLE: Venue Only"
+      description: "Maps to files like: events-venue-v1-page1.json"
+      parameters:
+        - name: venueId
+          in: path
+          required: true
+          schema: { type: string, enum: [v1, v2] }
+        - name: page
+          in: path
+          required: true
+          schema: { type: integer, enum: [1, 2, 3] }
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema: { $ref: './json-schema/events.json' }
+        '400':
+          description: Bad request - Unsupported parameter combination.
+        '404':
+          description: Pre-generated file not found.
+
+  # 5. GENERAL: Global Page
+  /api/events-page{page}.json:
+    get:
+      summary: "GENERAL: Global Paginated List"
+      description: "Maps to files like: events-page1.json"
+      parameters:
+        - name: page
+          in: path
+          required: true
+          schema: { type: integer, enum: [1, 2, 3, 4, 5, 6] }
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema: { $ref: './json-schema/events.json' }
+        '400':
+          description: Bad request - Unsupported page number.
+        '404':
+          description: Pre-generated file not found.
+
+  # 6. BASE: Default
+  /api/events.json:
+    get:
+      summary: "BASE: Main Events Entry"
+      description: "The default events.json file."
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema: { $ref: './json-schema/events.json' }
+        '400':
+          description: Bad request - Unsupported parameter combination.
+        '404':
+          description: Pre-generated file not found.
+  /api/events/{eventId}:
+    get:
+      summary: Get event details by ID
+      parameters:
+        - name: eventId
+          in: path
+          required: true
+          description: The ID of the event (e.g., e001)
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Detailed schedule and performer references for an event
+          content:
+            application/json:
+              schema:
+                $ref: './json-schema/event-by-id.json'
+              examples:
+                e001:
+                  externalValue: './json/events/e001.json'
+        '400':
+          description: Invalid event ID format
+        '404':
+          description: Event not found
+
+components:
+  schemas:
+    # Schemas are externally referenced in the paths above for cleanliness.
+    # This matches your folder structure requirement.
+    placeholder:
+      type: object

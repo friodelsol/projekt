@@ -1,0 +1,15 @@
+
+            {
+                "id": "e023",
+                "title": "Electric Folklore Live",
+                "date": "2026-07-25",
+                "start": "16:00",
+                "end": "17:00",
+                "venueId": "v1",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p023"
+                ]
+            }
+        

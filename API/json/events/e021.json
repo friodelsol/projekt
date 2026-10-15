@@ -1,0 +1,15 @@
+
+            {
+                "id": "e021",
+                "title": "Day 2 Rise",
+                "date": "2026-07-25",
+                "start": "14:00",
+                "end": "15:00",
+                "venueId": "v1",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p021"
+                ]
+            }
+        

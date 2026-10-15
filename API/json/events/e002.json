@@ -1,0 +1,15 @@
+
+            {
+                "id": "e002",
+                "title": "Astral Lift",
+                "date": "2026-07-24",
+                "start": "15:00",
+                "end": "16:00",
+                "venueId": "v1",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p002"
+                ]
+            }
+        

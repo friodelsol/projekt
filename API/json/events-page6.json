@@ -1,0 +1,84 @@
+
+        
+        {
+        "meta": {
+            "totalCount": 60,
+            "page": 6,
+            "pageSize": 10,
+            "totalPages": 6
+        },
+        "events": [
+            
+                    {
+                        "id": "e051",
+                        "title": "Neon Day 3 Warmup",
+                        "date": "2026-07-26",
+                        "venueId": "v2",
+                        "time": "14:00 - 15:00"
+                    },
+                    {
+                        "id": "e052",
+                        "title": "Trance Foundry",
+                        "date": "2026-07-26",
+                        "venueId": "v2",
+                        "time": "15:00 - 16:00"
+                    },
+                    {
+                        "id": "e053",
+                        "title": "Neon Monarch",
+                        "date": "2026-07-26",
+                        "venueId": "v2",
+                        "time": "16:00 - 17:00"
+                    },
+                    {
+                        "id": "e054",
+                        "title": "Orbit Undertow",
+                        "date": "2026-07-26",
+                        "venueId": "v2",
+                        "time": "17:00 - 18:00"
+                    },
+                    {
+                        "id": "e055",
+                        "title": "Hardwave Oracle",
+                        "date": "2026-07-26",
+                        "venueId": "v2",
+                        "time": "18:00 - 19:00"
+                    },
+                    {
+                        "id": "e056",
+                        "title": "Velvet Chronos Live",
+                        "date": "2026-07-26",
+                        "venueId": "v2",
+                        "time": "19:00 - 20:00"
+                    },
+                    {
+                        "id": "e057",
+                        "title": "Amber Skyline",
+                        "date": "2026-07-26",
+                        "venueId": "v2",
+                        "time": "20:00 - 21:00"
+                    },
+                    {
+                        "id": "e058",
+                        "title": "Neon Tesseract",
+                        "date": "2026-07-26",
+                        "venueId": "v2",
+                        "time": "21:00 - 22:00"
+                    },
+                    {
+                        "id": "e059",
+                        "title": "Midnight Carousel",
+                        "date": "2026-07-26",
+                        "venueId": "v2",
+                        "time": "22:00 - 23:00"
+                    },
+                    {
+                        "id": "e060",
+                        "title": "Festival Finale",
+                        "date": "2026-07-26",
+                        "venueId": "v2",
+                        "time": "23:00 - 00:00"
+                    }
+        ]
+        }
+    

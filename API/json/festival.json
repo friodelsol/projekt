@@ -1,0 +1,29 @@
+
+        {
+            "id": "prague-dreamland-2026",
+            "year": 2026,
+            "name": "Prague Dreamland Festival",
+            "edition": 1,
+            "location": {
+                "city": "Prague",
+                "country": "Czech Republic"
+            },
+            "dates": {
+                "start": "2026-07-24",
+                "end": "2026-07-26",
+                "days": 3
+            },
+            "theme": "Fantasy Dream World (Tomorrowland-inspired)",
+            "description": "Prague Dreamland Festival 2026 is a 3-day immersive fantasy-themed electronic music event set in the heart of Prague. Blending dream-world storytelling with spectacular stage design, large-scale visuals, daily fireworks, and top international & local artists across EDM, House, Techno, Trance, Drum & Bass and Hardstyle.",
+            "tickets": {
+                "standard": "1500 CZK",
+                "vip": "3500 CZK",
+                "earlyBird": "1200 CZK"
+            },
+            "links": [
+                
+                    "https://www.praguedreamland.cz",
+                    "https://instagram.com/praguedreamland"
+            ]
+        }
+    

@@ -1,0 +1,84 @@
+
+        
+        {
+        "meta": {
+            "totalCount": 20,
+            "page": 1,
+            "pageSize": 10,
+            "totalPages": 2
+        },
+        "events": [
+            
+                    {
+                        "id": "e021",
+                        "title": "Day 2 Rise",
+                        "date": "2026-07-25",
+                        "venueId": "v1",
+                        "time": "14:00 - 15:00"
+                    },
+                    {
+                        "id": "e022",
+                        "title": "Thunder Bloom",
+                        "date": "2026-07-25",
+                        "venueId": "v1",
+                        "time": "15:00 - 16:00"
+                    },
+                    {
+                        "id": "e023",
+                        "title": "Electric Folklore Live",
+                        "date": "2026-07-25",
+                        "venueId": "v1",
+                        "time": "16:00 - 17:00"
+                    },
+                    {
+                        "id": "e024",
+                        "title": "Solar Glide",
+                        "date": "2026-07-25",
+                        "venueId": "v1",
+                        "time": "17:00 - 18:00"
+                    },
+                    {
+                        "id": "e025",
+                        "title": "Moonlit Engine",
+                        "date": "2026-07-25",
+                        "venueId": "v1",
+                        "time": "18:00 - 19:00"
+                    },
+                    {
+                        "id": "e026",
+                        "title": "Prism Ascend",
+                        "date": "2026-07-25",
+                        "venueId": "v1",
+                        "time": "19:00 - 20:00"
+                    },
+                    {
+                        "id": "e027",
+                        "title": "Rooftop Anthem",
+                        "date": "2026-07-25",
+                        "venueId": "v1",
+                        "time": "20:00 - 21:00"
+                    },
+                    {
+                        "id": "e028",
+                        "title": "Cosmic Keys",
+                        "date": "2026-07-25",
+                        "venueId": "v1",
+                        "time": "21:00 - 22:00"
+                    },
+                    {
+                        "id": "e029",
+                        "title": "Amber Headline",
+                        "date": "2026-07-25",
+                        "venueId": "v1",
+                        "time": "22:00 - 23:00"
+                    },
+                    {
+                        "id": "e030",
+                        "title": "Day 2 Closing",
+                        "date": "2026-07-25",
+                        "venueId": "v1",
+                        "time": "23:00 - 00:00"
+                    }
+        ]
+        }
+    

@@ -1,0 +1,15 @@
+
+            {
+                "id": "e006",
+                "title": "Orbit Anthem",
+                "date": "2026-07-24",
+                "start": "19:00",
+                "end": "20:00",
+                "venueId": "v1",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p006"
+                ]
+            }
+        

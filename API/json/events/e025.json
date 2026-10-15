@@ -1,0 +1,15 @@
+
+            {
+                "id": "e025",
+                "title": "Moonlit Engine",
+                "date": "2026-07-25",
+                "start": "18:00",
+                "end": "19:00",
+                "venueId": "v1",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p025"
+                ]
+            }
+        

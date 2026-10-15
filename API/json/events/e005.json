@@ -1,0 +1,15 @@
+
+            {
+                "id": "e005",
+                "title": "Golden Hour Rave",
+                "date": "2026-07-24",
+                "start": "18:00",
+                "end": "19:00",
+                "venueId": "v1",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p005"
+                ]
+            }
+        

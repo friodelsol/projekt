@@ -1,0 +1,21 @@
+
+            {
+                "id": "v2",
+                "name": "Underground Stage - Neon Cave",
+                "type": "Indoor Stage",
+                "capacity": 8000,
+                "area": "Holesovice",
+                "location": {
+                    "city": "Prague",
+                    "postalCode": "170 00",
+                    "country": "Czech Republic"
+                },
+                "facilities": [
+                    
+                        "Bar",
+                        "Lockers",
+                        "First Aid",
+                        "Rest Area"
+                ]
+            }
+        

@@ -1,0 +1,21 @@
+
+        {
+            "venues": [
+                
+                    {
+                        "id": "v1",
+                        "name": "Mainstage - Astral Gate",
+                        "type": "Outdoor Stage",
+                        "capacity": 20000,
+                        "area": "Letna Park"
+                    },
+                    {
+                        "id": "v2",
+                        "name": "Underground Stage - Neon Cave",
+                        "type": "Indoor Stage",
+                        "capacity": 8000,
+                        "area": "Holesovice"
+                    }
+            ]
+        }
+    

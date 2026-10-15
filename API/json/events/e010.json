@@ -1,0 +1,15 @@
+
+            {
+                "id": "e010",
+                "title": "Day 1 Closing",
+                "date": "2026-07-24",
+                "start": "23:00",
+                "end": "00:00",
+                "venueId": "v1",
+                "type": "Performance",
+                "performerRefs": [
+                    
+                        "p010"
+                ]
+            }
+        
