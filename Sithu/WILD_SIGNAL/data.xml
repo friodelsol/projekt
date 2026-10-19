@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<festival id="prague-dreamland-2026" year="2026" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="festival.xsd">
+	<identity>
+		<name>Prague Dreamland Festival</name>
+		<edition>1</edition>
+		<location>
+			<city>Prague</city>
+			<country>Czech Republic</country>
+		</location>
+		<dates start="2026-07-24" end="2026-07-26" days="3" />
+		<theme>Fantasy Dream World (Tomorrowland-inspired)</theme>
+		<genres>
+			<genre>EDM</genre>
+			<genre>House</genre>
+			<genre>Techno</genre>
+			<genre>Trance</genre>
+			<genre>Drum &amp; Bass</genre>
+			<genre>Hardstyle</genre>
+		</genres>
+		<description>
+			Prague Dreamland Festival 2026 is a 3-day immersive fantasy-themed electronic music event set in the heart of Prague. Blending dream-world storytelling with spectacular stage design, large-scale visuals, daily fireworks, and top international &amp; local artists across EDM, House, Techno, Trance, Drum &amp; Bass and Hardstyle.
+		</description>
+		<tickets>
+			<standard>1500 CZK</standard>
+			<vip>3500 CZK</vip>
+			<earlyBird>1200 CZK</earlyBird>
+		</tickets>
+		<links>
+			<link>https://www.praguedreamland.cz</link>
+			<link>https://instagram.com/praguedreamland</link>
+		</links>
+	</identity>
+	
+	<venues>
+		<venue id="v1">
+			<name>Mainstage - Astral Gate</name>
+			<type>Outdoor Stage</type>
+			<capacity>20000</capacity>
+			<area>Letna Park</area>
+			<address>
+				<city>Prague</city>
+				<postalCode>170 00</postalCode>
+				<country>Czech Republic</country>
+			</address>
+			<facilities>
+				<facility>Food Court</facility>
+				<facility>Merch Booth</facility>
+				<facility>First Aid</facility>
+				<facility>Water Refill</facility>
+			</facilities>
+		</venue>
+		
+		<venue id="v2">
+			<name>Underground Stage - Neon Cave</name>
+			<type>Indoor Stage</type>
+			<capacity>8000</capacity>
+			<area>Holesovice</area>
+			<address>
+				<city>Prague</city>
+				<postalCode>170 00</postalCode>
+				<country>Czech Republic</country>
+			</address>
+			<facilities>
+				<facility>Bar</facility>
+				<facility>Lockers</facility>
+				<facility>First Aid</facility>
+				<facility>Rest Area</facility>
+			</facilities>
+		</venue>
+	</venues>
+	
+	<performers>
+		<performer id="p001">
+			<name>Lunar Pulse</name>
+			<role>DJ</role>
+			<country>Belgium</country>
+			<tags>
+				<tag>EDM</tag>
+				<tag>Progressive House</tag>
+			</tags>
+		</performer>
+		<performer id="p002">
+			<name>Vltava Voltage</name>
+			<role>DJ</role>
+			<country>Czech Republic</country>
+			<tags>
+				<tag>Techno</tag>
+				<tag>House</tag>
+			</tags>
+		</performer>
+		<performer id="p003">
+			<name>Midnight Atlas</name>
+			<role>Live Act</role>
+			<country>Germany</country>
+			<tags>
+				<tag>Trance</tag>
+				<tag>Electronic</tag>
+			</tags>
+		</performer>
+		<performer id="p004">
+			<name>Neon Orchard</name>
+			<role>DJ</role>
+			<country>Netherlands</country>
+			<tags>
+				<tag>Drum &amp; Bass</tag>
+			</tags>
+		</performer>
+		<performer id="p005">
+			<name>Iron Fairy</name>
+			<role>DJ</role>
+			<country>France</country>
+			<tags>
+				<tag>Hardstyle</tag>
+			</tags>
+		</performer>
+		<performer id="p006">
+			<name>Crystal Borough</name>
+			<role>DJ</role>
+			<country>United Kingdom</country>
+			<tags>
+				<tag>House</tag>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		<performer id="p007">
+			<name>Aurora Circuit</name>
+			<role>DJ</role>
+			<country>Sweden</country>
+			<tags>
+				<tag>Trance</tag>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		<performer id="p008">
+			<name>Prague Skyline</name>
+			<role>Live Act</role>
+			<country>Czech Republic</country>
+			<tags>
+				<tag>Electronic</tag>
+				<tag>Techno</tag>
+			</tags>
+		</performer>
+		<performer id="p009">
+			<name>Velvet Reactor</name>
+			<role>DJ</role>
+			<country>Austria</country>
+			<tags>
+				<tag>Techno</tag>
+			</tags>
+		</performer>
+		<performer id="p010">
+			<name>Golden Rave</name>
+			<role>DJ</role>
+			<country>Italy</country>
+			<tags>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		
+		<performer id="p011">
+			<name>Starlit Harbour</name>
+			<role>DJ</role>
+			<country>Spain</country>
+			<tags>
+				<tag>House</tag>
+				<tag>Progressive House</tag>
+			</tags>
+		</performer>
+		<performer id="p012">
+			<name>Echo Cathedral</name>
+			<role>Live Act</role>
+			<country>Poland</country>
+			<tags>
+				<tag>Trance</tag>
+			</tags>
+		</performer>
+		<performer id="p013">
+			<name>Nova Lantern</name>
+			<role>DJ</role>
+			<country>Denmark</country>
+			<tags>
+				<tag>Techno</tag>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		<performer id="p014">
+			<name>Basement Comet</name>
+			<role>DJ</role>
+			<country>Ireland</country>
+			<tags>
+				<tag>Drum &amp; Bass</tag>
+			</tags>
+		</performer>
+		<performer id="p015">
+			<name>Steel Unicorn</name>
+			<role>DJ</role>
+			<country>Belgium</country>
+			<tags>
+				<tag>Hardstyle</tag>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		<performer id="p016">
+			<name>Riverlight</name>
+			<role>DJ</role>
+			<country>Hungary</country>
+			<tags>
+				<tag>House</tag>
+			</tags>
+		</performer>
+		<performer id="p017">
+			<name>Obsidian Bloom</name>
+			<role>DJ</role>
+			<country>Germany</country>
+			<tags>
+				<tag>Techno</tag>
+			</tags>
+		</performer>
+		<performer id="p018">
+			<name>Pulse Architect</name>
+			<role>Live Act</role>
+			<country>Netherlands</country>
+			<tags>
+				<tag>Electronic</tag>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		<performer id="p019">
+			<name>Trance Scribe</name>
+			<role>DJ</role>
+			<country>Switzerland</country>
+			<tags>
+				<tag>Trance</tag>
+			</tags>
+		</performer>
+		<performer id="p020">
+			<name>Night Bazaar</name>
+			<role>DJ</role>
+			<country>Turkey</country>
+			<tags>
+				<tag>EDM</tag>
+				<tag>House</tag>
+			</tags>
+		</performer>
+		
+		<performer id="p021">
+			<name>Silver Compass</name>
+			<role>DJ</role>
+			<country>Norway</country>
+			<tags>
+				<tag>Progressive House</tag>
+			</tags>
+		</performer>
+		<performer id="p022">
+			<name>Thunder Mosaic</name>
+			<role>DJ</role>
+			<country>Finland</country>
+			<tags>
+				<tag>Hardstyle</tag>
+			</tags>
+		</performer>
+		<performer id="p023">
+			<name>Electric Folklore</name>
+			<role>Live Act</role>
+			<country>Czech Republic</country>
+			<tags>
+				<tag>Electronic</tag>
+				<tag>House</tag>
+			</tags>
+		</performer>
+		<performer id="p024">
+			<name>Neon Sparrow</name>
+			<role>DJ</role>
+			<country>Portugal</country>
+			<tags>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		<performer id="p025">
+			<name>Subway Siren</name>
+			<role>DJ</role>
+			<country>United Kingdom</country>
+			<tags>
+				<tag>Drum &amp; Bass</tag>
+			</tags>
+		</performer>
+		<performer id="p026">
+			<name>Prism Driver</name>
+			<role>DJ</role>
+			<country>France</country>
+			<tags>
+				<tag>Techno</tag>
+				<tag>Trance</tag>
+			</tags>
+		</performer>
+		<performer id="p027">
+			<name>Rooftop Mirage</name>
+			<role>DJ</role>
+			<country>Spain</country>
+			<tags>
+				<tag>House</tag>
+			</tags>
+		</performer>
+		<performer id="p028">
+			<name>Cosmic Locksmith</name>
+			<role>Live Act</role>
+			<country>Germany</country>
+			<tags>
+				<tag>Electronic</tag>
+				<tag>Techno</tag>
+			</tags>
+		</performer>
+		<performer id="p029">
+			<name>Amber Frequency</name>
+			<role>DJ</role>
+			<country>Netherlands</country>
+			<tags>
+				<tag>EDM</tag>
+				<tag>Progressive House</tag>
+			</tags>
+		</performer>
+		<performer id="p030">
+			<name>Hardwave Herald</name>
+			<role>DJ</role>
+			<country>Italy</country>
+			<tags>
+				<tag>Hardstyle</tag>
+			</tags>
+		</performer>
+		
+		<performer id="p031">
+			<name>Midtown Photon</name>
+			<role>DJ</role>
+			<country>Austria</country>
+			<tags>
+				<tag>Techno</tag>
+			</tags>
+		</performer>
+		<performer id="p032">
+			<name>Blue Cathedral</name>
+			<role>DJ</role>
+			<country>Poland</country>
+			<tags>
+				<tag>Trance</tag>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		<performer id="p033">
+			<name>Velvet Static</name>
+			<role>DJ</role>
+			<country>Sweden</country>
+			<tags>
+				<tag>House</tag>
+			</tags>
+		</performer>
+		<performer id="p034">
+			<name>Arcade Panther</name>
+			<role>DJ</role>
+			<country>Denmark</country>
+			<tags>
+				<tag>Drum &amp; Bass</tag>
+			</tags>
+		</performer>
+		<performer id="p035">
+			<name>Orbit Mason</name>
+			<role>Live Act</role>
+			<country>Switzerland</country>
+			<tags>
+				<tag>Electronic</tag>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		<performer id="p036">
+			<name>Neon Alchemist</name>
+			<role>DJ</role>
+			<country>Belgium</country>
+			<tags>
+				<tag>Techno</tag>
+				<tag>House</tag>
+			</tags>
+		</performer>
+		<performer id="p037">
+			<name>Tramline Titan</name>
+			<role>DJ</role>
+			<country>Czech Republic</country>
+			<tags>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		<performer id="p038">
+			<name>Shadow Carousel</name>
+			<role>DJ</role>
+			<country>France</country>
+			<tags>
+				<tag>Hardstyle</tag>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		<performer id="p039">
+			<name>Pulse Nomad</name>
+			<role>DJ</role>
+			<country>Hungary</country>
+			<tags>
+				<tag>Progressive House</tag>
+				<tag>House</tag>
+			</tags>
+		</performer>
+		<performer id="p040">
+			<name>Basement Aurora</name>
+			<role>DJ</role>
+			<country>Ireland</country>
+			<tags>
+				<tag>Drum &amp; Bass</tag>
+			</tags>
+		</performer>
+		
+		<performer id="p041">
+			<name>Gilded Circuit</name>
+			<role>DJ</role>
+			<country>Portugal</country>
+			<tags>
+				<tag>Techno</tag>
+			</tags>
+		</performer>
+		<performer id="p042">
+			<name>Starlight Syndicate</name>
+			<role>Live Act</role>
+			<country>United Kingdom</country>
+			<tags>
+				<tag>Electronic</tag>
+				<tag>Trance</tag>
+			</tags>
+		</performer>
+		<performer id="p043">
+			<name>River Rune</name>
+			<role>DJ</role>
+			<country>Norway</country>
+			<tags>
+				<tag>House</tag>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		<performer id="p044">
+			<name>Neon Basilica</name>
+			<role>DJ</role>
+			<country>Spain</country>
+			<tags>
+				<tag>EDM</tag>
+				<tag>Progressive House</tag>
+			</tags>
+		</performer>
+		<performer id="p045">
+			<name>Quantum Fisher</name>
+			<role>DJ</role>
+			<country>Germany</country>
+			<tags>
+				<tag>Techno</tag>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		<performer id="p046">
+			<name>Hardstyle Halo</name>
+			<role>DJ</role>
+			<country>Netherlands</country>
+			<tags>
+				<tag>Hardstyle</tag>
+			</tags>
+		</performer>
+		<performer id="p047">
+			<name>Violet Overdrive</name>
+			<role>DJ</role>
+			<country>Italy</country>
+			<tags>
+				<tag>Trance</tag>
+			</tags>
+		</performer>
+		<performer id="p048">
+			<name>Neon Quill</name>
+			<role>Live Act</role>
+			<country>France</country>
+			<tags>
+				<tag>Electronic</tag>
+				<tag>House</tag>
+			</tags>
+		</performer>
+		<performer id="p049">
+			<name>Basement Voyager</name>
+			<role>DJ</role>
+			<country>Poland</country>
+			<tags>
+				<tag>Drum &amp; Bass</tag>
+			</tags>
+		</performer>
+		<performer id="p050">
+			<name>Prism Empress</name>
+			<role>DJ</role>
+			<country>Belgium</country>
+			<tags>
+				<tag>EDM</tag>
+				<tag>House</tag>
+			</tags>
+		</performer>
+		
+		<performer id="p051">
+			<name>Citylight Operator</name>
+			<role>DJ</role>
+			<country>Czech Republic</country>
+			<tags>
+				<tag>Techno</tag>
+			</tags>
+		</performer>
+		<performer id="p052">
+			<name>Trance Foundry</name>
+			<role>DJ</role>
+			<country>Sweden</country>
+			<tags>
+				<tag>Trance</tag>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		<performer id="p053">
+			<name>Neon Monarch</name>
+			<role>DJ</role>
+			<country>Denmark</country>
+			<tags>
+				<tag>House</tag>
+				<tag>Progressive House</tag>
+			</tags>
+		</performer>
+		<performer id="p054">
+			<name>Orbit Undertow</name>
+			<role>DJ</role>
+			<country>Norway</country>
+			<tags>
+				<tag>Drum &amp; Bass</tag>
+			</tags>
+		</performer>
+		<performer id="p055">
+			<name>Hardwave Oracle</name>
+			<role>DJ</role>
+			<country>Netherlands</country>
+			<tags>
+				<tag>Hardstyle</tag>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		<performer id="p056">
+			<name>Velvet Chronos</name>
+			<role>Live Act</role>
+			<country>Germany</country>
+			<tags>
+				<tag>Electronic</tag>
+				<tag>Techno</tag>
+			</tags>
+		</performer>
+		<performer id="p057">
+			<name>Amber Skyline</name>
+			<role>DJ</role>
+			<country>Austria</country>
+			<tags>
+				<tag>EDM</tag>
+			</tags>
+		</performer>
+		<performer id="p058">
+			<name>Neon Tesseract</name>
+			<role>DJ</role>
+			<country>Switzerland</country>
+			<tags>
+				<tag>Techno</tag>
+				<tag>House</tag>
+			</tags>
+		</performer>
+		<performer id="p059">
+			<name>Midnight Carousel</name>
+			<role>DJ</role>
+			<country>United Kingdom</country>
+			<tags>
+				<tag>Trance</tag>
+				<tag>Progressive House</tag>
+			</tags>
+		</performer>
+		<performer id="p060">
+			<name>Finale Phoenix</name>
+			<role>DJ</role>
+			<country>Belgium</country>
+			<tags>
+				<tag>EDM</tag>
+				<tag>House</tag>
+			</tags>
+		</performer>
+	</performers>
+	
+	<programme>
+		<!-- Day 1: 2026-07-24 | v1 (10 events) -->
+		<event id="e001" date="2026-07-24" venueRef="v1">
+			<start>14:00</start>
+			<end>15:00</end>
+			<type>Performance</type>
+			<title>Opening Pulse</title>
+			<performers>
+				<performerRef ref="p001" />
+			</performers>
+		</event>
+		<event id="e002" date="2026-07-24" venueRef="v1">
+			<start>15:00</start>
+			<end>16:00</end>
+			<type>Performance</type>
+			<title>Astral Lift</title>
+			<performers>
+				<performerRef ref="p002" />
+			</performers>
+		</event>
+		<event id="e003" date="2026-07-24" venueRef="v1">
+			<start>16:00</start>
+			<end>17:00</end>
+			<type>Performance</type>
+			<title>Skyline Drive</title>
+			<performers>
+				<performerRef ref="p003" />
+			</performers>
+		</event>
+		<event id="e004" date="2026-07-24" venueRef="v1">
+			<start>17:00</start>
+			<end>18:00</end>
+			<type>Performance</type>
+			<title>Dream Gate</title>
+			<performers>
+				<performerRef ref="p004" />
+			</performers>
+		</event>
+		<event id="e005" date="2026-07-24" venueRef="v1">
+			<start>18:00</start>
+			<end>19:00</end>
+			<type>Performance</type>
+			<title>Golden Hour Rave</title>
+			<performers>
+				<performerRef ref="p005" />
+			</performers>
+		</event>
+		<event id="e006" date="2026-07-24" venueRef="v1">
+			<start>19:00</start>
+			<end>20:00</end>
+			<type>Performance</type>
+			<title>Orbit Anthem</title>
+			<performers>
+				<performerRef ref="p006" />
+			</performers>
+		</event>
+		<event id="e007" date="2026-07-24" venueRef="v1">
+			<start>20:00</start>
+			<end>21:00</end>
+			<type>Performance</type>
+			<title>Starlit Mainstage</title>
+			<performers>
+				<performerRef ref="p007" />
+			</performers>
+		</event>
+		<event id="e008" date="2026-07-24" venueRef="v1">
+			<start>21:00</start>
+			<end>22:00</end>
+			<type>Performance</type>
+			<title>Velvet Peak</title>
+			<performers>
+				<performerRef ref="p008" />
+			</performers>
+		</event>
+		<event id="e009" date="2026-07-24" venueRef="v1">
+			<start>22:00</start>
+			<end>23:00</end>
+			<type>Performance</type>
+			<title>Midnight Crown</title>
+			<performers>
+				<performerRef ref="p009" />
+			</performers>
+		</event>
+		<event id="e010" date="2026-07-24" venueRef="v1">
+			<start>23:00</start>
+			<end>00:00</end>
+			<type>Performance</type>
+			<title>Day 1 Closing</title>
+			<performers>
+				<performerRef ref="p010" />
+			</performers>
+		</event>
+		
+		<!-- Day 1: 2026-07-24 | v2 (10 events) -->
+		<event id="e011" date="2026-07-24" venueRef="v2">
+			<start>14:00</start>
+			<end>15:00</end>
+			<type>Performance</type>
+			<title>Neon Warmup</title>
+			<performers>
+				<performerRef ref="p011" />
+			</performers>
+		</event>
+		<event id="e012" date="2026-07-24" venueRef="v2">
+			<start>15:00</start>
+			<end>16:00</end>
+			<type>Performance</type>
+			<title>Basement Echo</title>
+			<performers>
+				<performerRef ref="p012" />
+			</performers>
+		</event>
+		<event id="e013" date="2026-07-24" venueRef="v2">
+			<start>16:00</start>
+			<end>17:00</end>
+			<type>Performance</type>
+			<title>Laser Alley</title>
+			<performers>
+				<performerRef ref="p013" />
+			</performers>
+		</event>
+		<event id="e014" date="2026-07-24" venueRef="v2">
+			<start>17:00</start>
+			<end>18:00</end>
+			<type>Performance</type>
+			<title>Bass Tunnel</title>
+			<performers>
+				<performerRef ref="p014" />
+			</performers>
+		</event>
+		<event id="e015" date="2026-07-24" venueRef="v2">
+			<start>18:00</start>
+			<end>19:00</end>
+			<type>Performance</type>
+			<title>Hard Neon Ritual</title>
+			<performers>
+				<performerRef ref="p015" />
+			</performers>
+		</event>
+		<event id="e016" date="2026-07-24" venueRef="v2">
+			<start>19:00</start>
+			<end>20:00</end>
+			<type>Performance</type>
+			<title>Underground Current</title>
+			<performers>
+				<performerRef ref="p016" />
+			</performers>
+		</event>
+		<event id="e017" date="2026-07-24" venueRef="v2">
+			<start>20:00</start>
+			<end>21:00</end>
+			<type>Performance</type>
+			<title>Obsidian Drops</title>
+			<performers>
+				<performerRef ref="p017" />
+			</performers>
+		</event>
+		<event id="e018" date="2026-07-24" venueRef="v2">
+			<start>21:00</start>
+			<end>22:00</end>
+			<type>Performance</type>
+			<title>Pulse Workshop</title>
+			<performers>
+				<performerRef ref="p018" />
+			</performers>
+		</event>
+		<event id="e019" date="2026-07-24" venueRef="v2">
+			<start>22:00</start>
+			<end>23:00</end>
+			<type>Performance</type>
+			<title>Trance Chamber</title>
+			<performers>
+				<performerRef ref="p019" />
+			</performers>
+		</event>
+		<event id="e020" date="2026-07-24" venueRef="v2">
+			<start>23:00</start>
+			<end>00:00</end>
+			<type>Performance</type>
+			<title>Neon Closing</title>
+			<performers>
+				<performerRef ref="p020" />
+			</performers>
+		</event>
+		
+		<!-- Day 2: 2026-07-25 | v1 (10 events) -->
+		<event id="e021" date="2026-07-25" venueRef="v1">
+			<start>14:00</start>
+			<end>15:00</end>
+			<type>Performance</type>
+			<title>Day 2 Rise</title>
+			<performers>
+				<performerRef ref="p021" />
+			</performers>
+		</event>
+		<event id="e022" date="2026-07-25" venueRef="v1">
+			<start>15:00</start>
+			<end>16:00</end>
+			<type>Performance</type>
+			<title>Thunder Bloom</title>
+			<performers>
+				<performerRef ref="p022" />
+			</performers>
+		</event>
+		<event id="e023" date="2026-07-25" venueRef="v1">
+			<start>16:00</start>
+			<end>17:00</end>
+			<type>Performance</type>
+			<title>Electric Folklore Live</title>
+			<performers>
+				<performerRef ref="p023" />
+			</performers>
+		</event>
+		<event id="e024" date="2026-07-25" venueRef="v1">
+			<start>17:00</start>
+			<end>18:00</end>
+			<type>Performance</type>
+			<title>Solar Glide</title>
+			<performers>
+				<performerRef ref="p024" />
+			</performers>
+		</event>
+		<event id="e025" date="2026-07-25" venueRef="v1">
+			<start>18:00</start>
+			<end>19:00</end>
+			<type>Performance</type>
+			<title>Moonlit Engine</title>
+			<performers>
+				<performerRef ref="p025" />
+			</performers>
+		</event>
+		<event id="e026" date="2026-07-25" venueRef="v1">
+			<start>19:00</start>
+			<end>20:00</end>
+			<type>Performance</type>
+			<title>Prism Ascend</title>
+			<performers>
+				<performerRef ref="p026" />
+			</performers>
+		</event>
+		<event id="e027" date="2026-07-25" venueRef="v1">
+			<start>20:00</start>
+			<end>21:00</end>
+			<type>Performance</type>
+			<title>Rooftop Anthem</title>
+			<performers>
+				<performerRef ref="p027" />
+			</performers>
+		</event>
+		<event id="e028" date="2026-07-25" venueRef="v1">
+			<start>21:00</start>
+			<end>22:00</end>
+			<type>Performance</type>
+			<title>Cosmic Keys</title>
+			<performers>
+				<performerRef ref="p028" />
+			</performers>
+		</event>
+		<event id="e029" date="2026-07-25" venueRef="v1">
+			<start>22:00</start>
+			<end>23:00</end>
+			<type>Performance</type>
+			<title>Amber Headline</title>
+			<performers>
+				<performerRef ref="p029" />
+			</performers>
+		</event>
+		<event id="e030" date="2026-07-25" venueRef="v1">
+			<start>23:00</start>
+			<end>00:00</end>
+			<type>Performance</type>
+			<title>Day 2 Closing</title>
+			<performers>
+				<performerRef ref="p030" />
+			</performers>
+		</event>
+		
+		<!-- Day 2: 2026-07-25 | v2 (10 events) -->
+		<event id="e031" date="2026-07-25" venueRef="v2">
+			<start>14:00</start>
+			<end>15:00</end>
+			<type>Performance</type>
+			<title>Neon Daylight</title>
+			<performers>
+				<performerRef ref="p031" />
+			</performers>
+		</event>
+		<event id="e032" date="2026-07-25" venueRef="v2">
+			<start>15:00</start>
+			<end>16:00</end>
+			<type>Performance</type>
+			<title>Blue Vault</title>
+			<performers>
+				<performerRef ref="p032" />
+			</performers>
+		</event>
+		<event id="e033" date="2026-07-25" venueRef="v2">
+			<start>16:00</start>
+			<end>17:00</end>
+			<type>Performance</type>
+			<title>Velvet Static Session</title>
+			<performers>
+				<performerRef ref="p033" />
+			</performers>
+		</event>
+		<event id="e034" date="2026-07-25" venueRef="v2">
+			<start>17:00</start>
+			<end>18:00</end>
+			<type>Performance</type>
+			<title>Arcade Bassline</title>
+			<performers>
+				<performerRef ref="p034" />
+			</performers>
+		</event>
+		<event id="e035" date="2026-07-25" venueRef="v2">
+			<start>18:00</start>
+			<end>19:00</end>
+			<type>Performance</type>
+			<title>Orbit Live</title>
+			<performers>
+				<performerRef ref="p035" />
+			</performers>
+		</event>
+		<event id="e036" date="2026-07-25" venueRef="v2">
+			<start>19:00</start>
+			<end>20:00</end>
+			<type>Performance</type>
+			<title>Neon Alchemy</title>
+			<performers>
+				<performerRef ref="p036" />
+			</performers>
+		</event>
+		<event id="e037" date="2026-07-25" venueRef="v2">
+			<start>20:00</start>
+			<end>21:00</end>
+			<type>Performance</type>
+			<title>Tramline Rush</title>
+			<performers>
+				<performerRef ref="p037" />
+			</performers>
+		</event>
+		<event id="e038" date="2026-07-25" venueRef="v2">
+			<start>21:00</start>
+			<end>22:00</end>
+			<type>Performance</type>
+			<title>Shadow Carousel</title>
+			<performers>
+				<performerRef ref="p038" />
+			</performers>
+		</event>
+		<event id="e039" date="2026-07-25" venueRef="v2">
+			<start>22:00</start>
+			<end>23:00</end>
+			<type>Performance</type>
+			<title>Nomad Night</title>
+			<performers>
+				<performerRef ref="p039" />
+			</performers>
+		</event>
+		<event id="e040" date="2026-07-25" venueRef="v2">
+			<start>23:00</start>
+			<end>00:00</end>
+			<type>Performance</type>
+			<title>Underground Closing</title>
+			<performers>
+				<performerRef ref="p040" />
+			</performers>
+		</event>
+		
+		<!-- Day 3: 2026-07-26 | v1 (10 events) -->
+		<event id="e041" date="2026-07-26" venueRef="v1">
+			<start>14:00</start>
+			<end>15:00</end>
+			<type>Performance</type>
+			<title>Final Day Opening</title>
+			<performers>
+				<performerRef ref="p041" />
+			</performers>
+		</event>
+		<event id="e042" date="2026-07-26" venueRef="v1">
+			<start>15:00</start>
+			<end>16:00</end>
+			<type>Performance</type>
+			<title>Starlight Live</title>
+			<performers>
+				<performerRef ref="p042" />
+			</performers>
+		</event>
+		<event id="e043" date="2026-07-26" venueRef="v1">
+			<start>16:00</start>
+			<end>17:00</end>
+			<type>Performance</type>
+			<title>River Rune Groove</title>
+			<performers>
+				<performerRef ref="p043" />
+			</performers>
+		</event>
+		<event id="e044" date="2026-07-26" venueRef="v1">
+			<start>17:00</start>
+			<end>18:00</end>
+			<type>Performance</type>
+			<title>Neon Basilica</title>
+			<performers>
+				<performerRef ref="p044" />
+			</performers>
+		</event>
+		<event id="e045" date="2026-07-26" venueRef="v1">
+			<start>18:00</start>
+			<end>19:00</end>
+			<type>Performance</type>
+			<title>Quantum Peak</title>
+			<performers>
+				<performerRef ref="p045" />
+			</performers>
+		</event>
+		<event id="e046" date="2026-07-26" venueRef="v1">
+			<start>19:00</start>
+			<end>20:00</end>
+			<type>Performance</type>
+			<title>Hardstyle Halo</title>
+			<performers>
+				<performerRef ref="p046" />
+			</performers>
+		</event>
+		<event id="e047" date="2026-07-26" venueRef="v1">
+			<start>20:00</start>
+			<end>21:00</end>
+			<type>Performance</type>
+			<title>Violet Overdrive</title>
+			<performers>
+				<performerRef ref="p047" />
+			</performers>
+		</event>
+		<event id="e048" date="2026-07-26" venueRef="v1">
+			<start>21:00</start>
+			<end>22:00</end>
+			<type>Performance</type>
+			<title>Neon Quill Live</title>
+			<performers>
+				<performerRef ref="p048" />
+			</performers>
+		</event>
+		<event id="e049" date="2026-07-26" venueRef="v1">
+			<start>22:00</start>
+			<end>23:00</end>
+			<type>Performance</type>
+			<title>Basement Voyager</title>
+			<performers>
+				<performerRef ref="p049" />
+			</performers>
+		</event>
+		<event id="e050" date="2026-07-26" venueRef="v1">
+			<start>23:00</start>
+			<end>00:00</end>
+			<type>Performance</type>
+			<title>Final Mainstage Closing</title>
+			<performers>
+				<performerRef ref="p050" />
+			</performers>
+		</event>
+		
+		<!-- Day 3: 2026-07-26 | v2 (10 events) -->
+		<event id="e051" date="2026-07-26" venueRef="v2">
+			<start>14:00</start>
+			<end>15:00</end>
+			<type>Performance</type>
+			<title>Neon Day 3 Warmup</title>
+			<performers>
+				<performerRef ref="p051" />
+			</performers>
+		</event>
+		<event id="e052" date="2026-07-26" venueRef="v2">
+			<start>15:00</start>
+			<end>16:00</end>
+			<type>Performance</type>
+			<title>Trance Foundry</title>
+			<performers>
+				<performerRef ref="p052" />
+			</performers>
+		</event>
+		<event id="e053" date="2026-07-26" venueRef="v2">
+			<start>16:00</start>
+			<end>17:00</end>
+			<type>Performance</type>
+			<title>Neon Monarch</title>
+			<performers>
+				<performerRef ref="p053" />
+			</performers>
+		</event>
+		<event id="e054" date="2026-07-26" venueRef="v2">
+			<start>17:00</start>
+			<end>18:00</end>
+			<type>Performance</type>
+			<title>Orbit Undertow</title>
+			<performers>
+				<performerRef ref="p054" />
+			</performers>
+		</event>
+		<event id="e055" date="2026-07-26" venueRef="v2">
+			<start>18:00</start>
+			<end>19:00</end>
+			<type>Performance</type>
+			<title>Hardwave Oracle</title>
+			<performers>
+				<performerRef ref="p055" />
+			</performers>
+		</event>
+		<event id="e056" date="2026-07-26" venueRef="v2">
+			<start>19:00</start>
+			<end>20:00</end>
+			<type>Performance</type>
+			<title>Velvet Chronos Live</title>
+			<performers>
+				<performerRef ref="p056" />
+			</performers>
+		</event>
+		<event id="e057" date="2026-07-26" venueRef="v2">
+			<start>20:00</start>
+			<end>21:00</end>
+			<type>Performance</type>
+			<title>Amber Skyline</title>
+			<performers>
+				<performerRef ref="p057" />
+			</performers>
+		</event>
+		<event id="e058" date="2026-07-26" venueRef="v2">
+			<start>21:00</start>
+			<end>22:00</end>
+			<type>Performance</type>
+			<title>Neon Tesseract</title>
+			<performers>
+				<performerRef ref="p058" />
+			</performers>
+		</event>
+		<event id="e059" date="2026-07-26" venueRef="v2">
+			<start>22:00</start>
+			<end>23:00</end>
+			<type>Performance</type>
+			<title>Midnight Carousel</title>
+			<performers>
+				<performerRef ref="p059" />
+			</performers>
+		</event>
+		<event id="e060" date="2026-07-26" venueRef="v2">
+			<start>23:00</start>
+			<end>00:00</end>
+			<type>Performance</type>
+			<title>Festival Finale</title>
+			<performers>
+				<performerRef ref="p060" />
+			</performers>
+		</event>
+	</programme>
+</festival>
