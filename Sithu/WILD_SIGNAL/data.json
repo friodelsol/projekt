@@ -1,0 +1,1613 @@
+{
+  "festival": {
+    "id": "wild-signal-2027",
+    "name": "WILD SIGNAL",
+    "edition": 1,
+    "year": 2027,
+    "location": {
+      "city": "Prague",
+      "country": "Czechia",
+      "siteName": "Fictional Riverside Art Grounds"
+    },
+    "dates": {
+      "start": "2027-06-18",
+      "end": "2027-06-20"
+    },
+    "type": "Ecology, sound art, and experimental music festival",
+    "themes": [
+      "ecology",
+      "sound art",
+      "field recording",
+      "experimental music",
+      "environmental storytelling"
+    ],
+    "description": "A fictional three-day festival exploring how people listen to landscapes through sound performances, field recordings, workshops, and participatory installations."
+  },
+  "stages": [
+    {
+      "id": "river-stage",
+      "name": "River Stage",
+      "venueName": "Riverside Pavilion",
+      "description": "An open-air performance area for live sound, ambient music, and experimental sets.",
+      "accessibility": "Step-free audience area; accessible route to be confirmed in the final fictional site plan."
+    },
+    {
+      "id": "canopy-lab",
+      "name": "Canopy Lab",
+      "venueName": "Old Greenhouse",
+      "description": "A quieter indoor space for listening sessions, workshops, and small-scale sound experiments.",
+      "accessibility": "Ground-floor room; detailed access arrangements to be confirmed in the final fictional site plan."
+    }
+  ],
+  "performers": [
+    {
+      "id": "artist-001",
+      "name": "Juniper Fieldworks",
+      "genres": [
+        "Field recording",
+        "Electroacoustic"
+      ],
+      "bio": "Juniper Fieldworks is a fictional artist exploring the relationship between place, memory, and recorded sound.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-002",
+      "name": "Moss Archive",
+      "genres": [
+        "Ambient",
+        "Drone"
+      ],
+      "bio": "Moss Archive creates intimate listening experiences using acoustic objects and environmental textures.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-003",
+      "name": "River Works",
+      "genres": [
+        "Electroacoustic",
+        "Modular synthesis"
+      ],
+      "bio": "River Works combines field recordings with gentle electronic processing to invite closer attention to landscapes.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-004",
+      "name": "Sable Current",
+      "genres": [
+        "Experimental folk",
+        "Ambient"
+      ],
+      "bio": "Sable Current develops participatory sound works about everyday environments and shared public space.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-005",
+      "name": "Lumen Resonance",
+      "genres": [
+        "Sound installation",
+        "Sound installation"
+      ],
+      "bio": "Lumen Resonance works with slow compositions inspired by seasonal change, water, and plant life.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-006",
+      "name": "Cedar Acoustics",
+      "genres": [
+        "Drone",
+        "Environmental sound"
+      ],
+      "bio": "Cedar Acoustics uses found sounds and simple instruments to explore how people perceive their surroundings.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-007",
+      "name": "Mira Signal",
+      "genres": [
+        "Listening practice",
+        "Field recording"
+      ],
+      "bio": "Mira Signal is a fictional artist exploring the relationship between place, memory, and recorded sound.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-008",
+      "name": "Tidal Ensemble",
+      "genres": [
+        "Environmental sound",
+        "Experimental folk"
+      ],
+      "bio": "Tidal Ensemble creates intimate listening experiences using acoustic objects and environmental textures.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-009",
+      "name": "Aster Circuit",
+      "genres": [
+        "Modular synthesis",
+        "Listening practice"
+      ],
+      "bio": "Aster Circuit combines field recordings with gentle electronic processing to invite closer attention to landscapes.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-010",
+      "name": "Echo Studies",
+      "genres": [
+        "Acoustic ecology",
+        "Acoustic ecology"
+      ],
+      "bio": "Echo Studies develops participatory sound works about everyday environments and shared public space.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-011",
+      "name": "Sol Project",
+      "genres": [
+        "Field recording",
+        "Electroacoustic"
+      ],
+      "bio": "Sol Project works with slow compositions inspired by seasonal change, water, and plant life.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-012",
+      "name": "Fern Fieldworks",
+      "genres": [
+        "Ambient",
+        "Drone"
+      ],
+      "bio": "Fern Fieldworks uses found sounds and simple instruments to explore how people perceive their surroundings.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-013",
+      "name": "Cobalt Soundcraft",
+      "genres": [
+        "Electroacoustic",
+        "Modular synthesis"
+      ],
+      "bio": "Cobalt Soundcraft is a fictional artist exploring the relationship between place, memory, and recorded sound.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-014",
+      "name": "Wren Frequency",
+      "genres": [
+        "Experimental folk",
+        "Ambient"
+      ],
+      "bio": "Wren Frequency creates intimate listening experiences using acoustic objects and environmental textures.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-015",
+      "name": "Indigo Current",
+      "genres": [
+        "Sound installation",
+        "Sound installation"
+      ],
+      "bio": "Indigo Current combines field recordings with gentle electronic processing to invite closer attention to landscapes.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-016",
+      "name": "Delta Laboratory",
+      "genres": [
+        "Drone",
+        "Environmental sound"
+      ],
+      "bio": "Delta Laboratory develops participatory sound works about everyday environments and shared public space.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-017",
+      "name": "Ember Practice",
+      "genres": [
+        "Listening practice",
+        "Field recording"
+      ],
+      "bio": "Ember Practice works with slow compositions inspired by seasonal change, water, and plant life.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-018",
+      "name": "Nori Signal",
+      "genres": [
+        "Environmental sound",
+        "Experimental folk"
+      ],
+      "bio": "Nori Signal uses found sounds and simple instruments to explore how people perceive their surroundings.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-019",
+      "name": "Briar Tapes",
+      "genres": [
+        "Modular synthesis",
+        "Listening practice"
+      ],
+      "bio": "Briar Tapes is a fictional artist exploring the relationship between place, memory, and recorded sound.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-020",
+      "name": "Atlas Sessions",
+      "genres": [
+        "Acoustic ecology",
+        "Acoustic ecology"
+      ],
+      "bio": "Atlas Sessions creates intimate listening experiences using acoustic objects and environmental textures.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-021",
+      "name": "Cloud Studies",
+      "genres": [
+        "Field recording",
+        "Electroacoustic"
+      ],
+      "bio": "Cloud Studies combines field recordings with gentle electronic processing to invite closer attention to landscapes.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-022",
+      "name": "Reed Works",
+      "genres": [
+        "Ambient",
+        "Drone"
+      ],
+      "bio": "Reed Works develops participatory sound works about everyday environments and shared public space.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-023",
+      "name": "Vesper Listening",
+      "genres": [
+        "Electroacoustic",
+        "Modular synthesis"
+      ],
+      "bio": "Vesper Listening works with slow compositions inspired by seasonal change, water, and plant life.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-024",
+      "name": "Lark Soundcraft",
+      "genres": [
+        "Experimental folk",
+        "Ambient"
+      ],
+      "bio": "Lark Soundcraft uses found sounds and simple instruments to explore how people perceive their surroundings.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-025",
+      "name": "Marrow Acoustics",
+      "genres": [
+        "Sound installation",
+        "Sound installation"
+      ],
+      "bio": "Marrow Acoustics is a fictional artist exploring the relationship between place, memory, and recorded sound.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-026",
+      "name": "Sora Assembly",
+      "genres": [
+        "Drone",
+        "Environmental sound"
+      ],
+      "bio": "Sora Assembly creates intimate listening experiences using acoustic objects and environmental textures.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-027",
+      "name": "Pollen Laboratory",
+      "genres": [
+        "Listening practice",
+        "Field recording"
+      ],
+      "bio": "Pollen Laboratory combines field recordings with gentle electronic processing to invite closer attention to landscapes.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-028",
+      "name": "Vale Circuit",
+      "genres": [
+        "Environmental sound",
+        "Experimental folk"
+      ],
+      "bio": "Vale Circuit develops participatory sound works about everyday environments and shared public space.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-029",
+      "name": "Kestrel Collective",
+      "genres": [
+        "Modular synthesis",
+        "Listening practice"
+      ],
+      "bio": "Kestrel Collective works with slow compositions inspired by seasonal change, water, and plant life.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-030",
+      "name": "Orchid Tapes",
+      "genres": [
+        "Acoustic ecology",
+        "Acoustic ecology"
+      ],
+      "bio": "Orchid Tapes uses found sounds and simple instruments to explore how people perceive their surroundings.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-031",
+      "name": "Drift Fieldworks",
+      "genres": [
+        "Field recording",
+        "Electroacoustic"
+      ],
+      "bio": "Drift Fieldworks is a fictional artist exploring the relationship between place, memory, and recorded sound.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-032",
+      "name": "Willow Archive",
+      "genres": [
+        "Ambient",
+        "Drone"
+      ],
+      "bio": "Willow Archive creates intimate listening experiences using acoustic objects and environmental textures.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-033",
+      "name": "Quartz Works",
+      "genres": [
+        "Electroacoustic",
+        "Modular synthesis"
+      ],
+      "bio": "Quartz Works combines field recordings with gentle electronic processing to invite closer attention to landscapes.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-034",
+      "name": "Morrow Current",
+      "genres": [
+        "Experimental folk",
+        "Ambient"
+      ],
+      "bio": "Morrow Current develops participatory sound works about everyday environments and shared public space.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-035",
+      "name": "Aural Resonance",
+      "genres": [
+        "Sound installation",
+        "Sound installation"
+      ],
+      "bio": "Aural Resonance works with slow compositions inspired by seasonal change, water, and plant life.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-036",
+      "name": "Thicket Acoustics",
+      "genres": [
+        "Drone",
+        "Environmental sound"
+      ],
+      "bio": "Thicket Acoustics uses found sounds and simple instruments to explore how people perceive their surroundings.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-037",
+      "name": "Cairn Signal",
+      "genres": [
+        "Listening practice",
+        "Field recording"
+      ],
+      "bio": "Cairn Signal is a fictional artist exploring the relationship between place, memory, and recorded sound.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-038",
+      "name": "Fable Ensemble",
+      "genres": [
+        "Environmental sound",
+        "Experimental folk"
+      ],
+      "bio": "Fable Ensemble creates intimate listening experiences using acoustic objects and environmental textures.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-039",
+      "name": "Oxbow Circuit",
+      "genres": [
+        "Modular synthesis",
+        "Listening practice"
+      ],
+      "bio": "Oxbow Circuit combines field recordings with gentle electronic processing to invite closer attention to landscapes.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-040",
+      "name": "Dawn Studies",
+      "genres": [
+        "Acoustic ecology",
+        "Acoustic ecology"
+      ],
+      "bio": "Dawn Studies develops participatory sound works about everyday environments and shared public space.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-041",
+      "name": "Loam Project",
+      "genres": [
+        "Field recording",
+        "Electroacoustic"
+      ],
+      "bio": "Loam Project works with slow compositions inspired by seasonal change, water, and plant life.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-042",
+      "name": "Silver Fieldworks",
+      "genres": [
+        "Ambient",
+        "Drone"
+      ],
+      "bio": "Silver Fieldworks uses found sounds and simple instruments to explore how people perceive their surroundings.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-043",
+      "name": "Hollow Soundcraft",
+      "genres": [
+        "Electroacoustic",
+        "Modular synthesis"
+      ],
+      "bio": "Hollow Soundcraft is a fictional artist exploring the relationship between place, memory, and recorded sound.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-044",
+      "name": "Mica Frequency",
+      "genres": [
+        "Experimental folk",
+        "Ambient"
+      ],
+      "bio": "Mica Frequency creates intimate listening experiences using acoustic objects and environmental textures.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-045",
+      "name": "North Current",
+      "genres": [
+        "Sound installation",
+        "Sound installation"
+      ],
+      "bio": "North Current combines field recordings with gentle electronic processing to invite closer attention to landscapes.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-046",
+      "name": "Silt Laboratory",
+      "genres": [
+        "Drone",
+        "Environmental sound"
+      ],
+      "bio": "Silt Laboratory develops participatory sound works about everyday environments and shared public space.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-047",
+      "name": "Bloom Practice",
+      "genres": [
+        "Listening practice",
+        "Field recording"
+      ],
+      "bio": "Bloom Practice works with slow compositions inspired by seasonal change, water, and plant life.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-048",
+      "name": "Lowland Signal",
+      "genres": [
+        "Environmental sound",
+        "Experimental folk"
+      ],
+      "bio": "Lowland Signal uses found sounds and simple instruments to explore how people perceive their surroundings.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-049",
+      "name": "Flora Tapes",
+      "genres": [
+        "Modular synthesis",
+        "Listening practice"
+      ],
+      "bio": "Flora Tapes is a fictional artist exploring the relationship between place, memory, and recorded sound.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-050",
+      "name": "Static Sessions",
+      "genres": [
+        "Acoustic ecology",
+        "Acoustic ecology"
+      ],
+      "bio": "Static Sessions creates intimate listening experiences using acoustic objects and environmental textures.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-051",
+      "name": "Rill Studies",
+      "genres": [
+        "Field recording",
+        "Electroacoustic"
+      ],
+      "bio": "Rill Studies combines field recordings with gentle electronic processing to invite closer attention to landscapes.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-052",
+      "name": "Ashen Works",
+      "genres": [
+        "Ambient",
+        "Drone"
+      ],
+      "bio": "Ashen Works develops participatory sound works about everyday environments and shared public space.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-053",
+      "name": "Meadow Listening",
+      "genres": [
+        "Electroacoustic",
+        "Modular synthesis"
+      ],
+      "bio": "Meadow Listening works with slow compositions inspired by seasonal change, water, and plant life.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-054",
+      "name": "Tern Soundcraft",
+      "genres": [
+        "Experimental folk",
+        "Ambient"
+      ],
+      "bio": "Tern Soundcraft uses found sounds and simple instruments to explore how people perceive their surroundings.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-055",
+      "name": "Nightjar Acoustics",
+      "genres": [
+        "Sound installation",
+        "Sound installation"
+      ],
+      "bio": "Nightjar Acoustics is a fictional artist exploring the relationship between place, memory, and recorded sound.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-056",
+      "name": "Lichen Assembly",
+      "genres": [
+        "Drone",
+        "Environmental sound"
+      ],
+      "bio": "Lichen Assembly creates intimate listening experiences using acoustic objects and environmental textures.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-057",
+      "name": "Hush Laboratory",
+      "genres": [
+        "Listening practice",
+        "Field recording"
+      ],
+      "bio": "Hush Laboratory combines field recordings with gentle electronic processing to invite closer attention to landscapes.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-058",
+      "name": "Tundra Circuit",
+      "genres": [
+        "Environmental sound",
+        "Experimental folk"
+      ],
+      "bio": "Tundra Circuit develops participatory sound works about everyday environments and shared public space.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-059",
+      "name": "Murmur Collective",
+      "genres": [
+        "Modular synthesis",
+        "Listening practice"
+      ],
+      "bio": "Murmur Collective works with slow compositions inspired by seasonal change, water, and plant life.",
+      "image": null,
+      "isFictional": true
+    },
+    {
+      "id": "artist-060",
+      "name": "Estuary Tapes",
+      "genres": [
+        "Acoustic ecology",
+        "Acoustic ecology"
+      ],
+      "bio": "Estuary Tapes uses found sounds and simple instruments to explore how people perceive their surroundings.",
+      "image": null,
+      "isFictional": true
+    }
+  ],
+  "programme": [
+    {
+      "id": "event-001",
+      "title": "Listening to the Unseen — Juniper Fieldworks",
+      "performerIds": [
+        "artist-001"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "10:15",
+      "endTime": "11:00",
+      "type": "live_set",
+      "description": "A fictional live set exploring sound art through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-002",
+      "title": "River Memory — Moss Archive",
+      "performerIds": [
+        "artist-002"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "11:15",
+      "endTime": "12:00",
+      "type": "workshop",
+      "description": "A fictional workshop exploring field recording through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-003",
+      "title": "A Map Made of Wind — River Works",
+      "performerIds": [
+        "artist-003"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "12:15",
+      "endTime": "13:00",
+      "type": "installation_performance",
+      "description": "A fictional installation performance exploring experimental music through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-004",
+      "title": "Soil Frequencies — Sable Current",
+      "performerIds": [
+        "artist-004"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "13:15",
+      "endTime": "14:00",
+      "type": "listening_session",
+      "description": "A fictional listening session exploring environmental storytelling through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-005",
+      "title": "Night Insect Orchestra — Lumen Resonance",
+      "performerIds": [
+        "artist-005"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "14:15",
+      "endTime": "15:00",
+      "type": "sound_walk",
+      "description": "A fictional sound walk exploring ecology through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-006",
+      "title": "The Quiet Between Birds — Cedar Acoustics",
+      "performerIds": [
+        "artist-006"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "15:15",
+      "endTime": "16:00",
+      "type": "live_set",
+      "description": "A fictional live set exploring sound art through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-007",
+      "title": "Rain Archive — Mira Signal",
+      "performerIds": [
+        "artist-007"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "16:15",
+      "endTime": "17:00",
+      "type": "workshop",
+      "description": "A fictional workshop exploring field recording through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-008",
+      "title": "Moss and Machines — Tidal Ensemble",
+      "performerIds": [
+        "artist-008"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "17:15",
+      "endTime": "18:00",
+      "type": "installation_performance",
+      "description": "A fictional installation performance exploring experimental music through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-009",
+      "title": "Watershed Resonance — Aster Circuit",
+      "performerIds": [
+        "artist-009"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "18:15",
+      "endTime": "19:00",
+      "type": "listening_session",
+      "description": "A fictional listening session exploring environmental storytelling through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-010",
+      "title": "A Field Guide to Silence — Echo Studies",
+      "performerIds": [
+        "artist-010"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "19:15",
+      "endTime": "20:00",
+      "type": "sound_walk",
+      "description": "A fictional sound walk exploring ecology through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-011",
+      "title": "The Sound of Slow Growth — Sol Project",
+      "performerIds": [
+        "artist-011"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "10:15",
+      "endTime": "11:00",
+      "type": "live_set",
+      "description": "A fictional live set exploring sound art through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-012",
+      "title": "Reeds in Conversation — Fern Fieldworks",
+      "performerIds": [
+        "artist-012"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "11:15",
+      "endTime": "12:00",
+      "type": "workshop",
+      "description": "A fictional workshop exploring field recording through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-013",
+      "title": "Listening Beneath the City — Cobalt Soundcraft",
+      "performerIds": [
+        "artist-013"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "12:15",
+      "endTime": "13:00",
+      "type": "installation_performance",
+      "description": "A fictional installation performance exploring experimental music through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-014",
+      "title": "Air, Stone, and Signal — Wren Frequency",
+      "performerIds": [
+        "artist-014"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "13:15",
+      "endTime": "14:00",
+      "type": "listening_session",
+      "description": "A fictional listening session exploring environmental storytelling through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-015",
+      "title": "A Small Weather System — Indigo Current",
+      "performerIds": [
+        "artist-015"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "14:15",
+      "endTime": "15:00",
+      "type": "sound_walk",
+      "description": "A fictional sound walk exploring ecology through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-016",
+      "title": "Echoes from the Canopy — Delta Laboratory",
+      "performerIds": [
+        "artist-016"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "15:15",
+      "endTime": "16:00",
+      "type": "live_set",
+      "description": "A fictional live set exploring sound art through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-017",
+      "title": "Microhabitat Symphony — Ember Practice",
+      "performerIds": [
+        "artist-017"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "16:15",
+      "endTime": "17:00",
+      "type": "workshop",
+      "description": "A fictional workshop exploring field recording through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-018",
+      "title": "The Long Breath of Water — Nori Signal",
+      "performerIds": [
+        "artist-018"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "17:15",
+      "endTime": "18:00",
+      "type": "installation_performance",
+      "description": "A fictional installation performance exploring experimental music through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-019",
+      "title": "Wind Through Forgotten Places — Briar Tapes",
+      "performerIds": [
+        "artist-019"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "18:15",
+      "endTime": "19:00",
+      "type": "listening_session",
+      "description": "A fictional listening session exploring environmental storytelling through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-020",
+      "title": "A Practice of Attention — Atlas Sessions",
+      "performerIds": [
+        "artist-020"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-18",
+      "dayLabel": "Friday",
+      "startTime": "19:15",
+      "endTime": "20:00",
+      "type": "sound_walk",
+      "description": "A fictional sound walk exploring ecology through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-021",
+      "title": "Listening to the Unseen — Cloud Studies",
+      "performerIds": [
+        "artist-021"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "10:15",
+      "endTime": "11:00",
+      "type": "listening_session",
+      "description": "A fictional listening session exploring sound art through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-022",
+      "title": "River Memory — Reed Works",
+      "performerIds": [
+        "artist-022"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "11:15",
+      "endTime": "12:00",
+      "type": "sound_walk",
+      "description": "A fictional sound walk exploring field recording through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-023",
+      "title": "A Map Made of Wind — Vesper Listening",
+      "performerIds": [
+        "artist-023"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "12:15",
+      "endTime": "13:00",
+      "type": "live_set",
+      "description": "A fictional live set exploring experimental music through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-024",
+      "title": "Soil Frequencies — Lark Soundcraft",
+      "performerIds": [
+        "artist-024"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "13:15",
+      "endTime": "14:00",
+      "type": "workshop",
+      "description": "A fictional workshop exploring environmental storytelling through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-025",
+      "title": "Night Insect Orchestra — Marrow Acoustics",
+      "performerIds": [
+        "artist-025"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "14:15",
+      "endTime": "15:00",
+      "type": "installation_performance",
+      "description": "A fictional installation performance exploring ecology through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-026",
+      "title": "The Quiet Between Birds — Sora Assembly",
+      "performerIds": [
+        "artist-026"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "15:15",
+      "endTime": "16:00",
+      "type": "listening_session",
+      "description": "A fictional listening session exploring sound art through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-027",
+      "title": "Rain Archive — Pollen Laboratory",
+      "performerIds": [
+        "artist-027"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "16:15",
+      "endTime": "17:00",
+      "type": "sound_walk",
+      "description": "A fictional sound walk exploring field recording through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-028",
+      "title": "Moss and Machines — Vale Circuit",
+      "performerIds": [
+        "artist-028"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "17:15",
+      "endTime": "18:00",
+      "type": "live_set",
+      "description": "A fictional live set exploring experimental music through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-029",
+      "title": "Watershed Resonance — Kestrel Collective",
+      "performerIds": [
+        "artist-029"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "18:15",
+      "endTime": "19:00",
+      "type": "workshop",
+      "description": "A fictional workshop exploring environmental storytelling through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-030",
+      "title": "A Field Guide to Silence — Orchid Tapes",
+      "performerIds": [
+        "artist-030"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "19:15",
+      "endTime": "20:00",
+      "type": "installation_performance",
+      "description": "A fictional installation performance exploring ecology through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-031",
+      "title": "The Sound of Slow Growth — Drift Fieldworks",
+      "performerIds": [
+        "artist-031"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "10:15",
+      "endTime": "11:00",
+      "type": "listening_session",
+      "description": "A fictional listening session exploring sound art through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-032",
+      "title": "Reeds in Conversation — Willow Archive",
+      "performerIds": [
+        "artist-032"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "11:15",
+      "endTime": "12:00",
+      "type": "sound_walk",
+      "description": "A fictional sound walk exploring field recording through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-033",
+      "title": "Listening Beneath the City — Quartz Works",
+      "performerIds": [
+        "artist-033"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "12:15",
+      "endTime": "13:00",
+      "type": "live_set",
+      "description": "A fictional live set exploring experimental music through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-034",
+      "title": "Air, Stone, and Signal — Morrow Current",
+      "performerIds": [
+        "artist-034"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "13:15",
+      "endTime": "14:00",
+      "type": "workshop",
+      "description": "A fictional workshop exploring environmental storytelling through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-035",
+      "title": "A Small Weather System — Aural Resonance",
+      "performerIds": [
+        "artist-035"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "14:15",
+      "endTime": "15:00",
+      "type": "installation_performance",
+      "description": "A fictional installation performance exploring ecology through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-036",
+      "title": "Echoes from the Canopy — Thicket Acoustics",
+      "performerIds": [
+        "artist-036"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "15:15",
+      "endTime": "16:00",
+      "type": "listening_session",
+      "description": "A fictional listening session exploring sound art through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-037",
+      "title": "Microhabitat Symphony — Cairn Signal",
+      "performerIds": [
+        "artist-037"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "16:15",
+      "endTime": "17:00",
+      "type": "sound_walk",
+      "description": "A fictional sound walk exploring field recording through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-038",
+      "title": "The Long Breath of Water — Fable Ensemble",
+      "performerIds": [
+        "artist-038"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "17:15",
+      "endTime": "18:00",
+      "type": "live_set",
+      "description": "A fictional live set exploring experimental music through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-039",
+      "title": "Wind Through Forgotten Places — Oxbow Circuit",
+      "performerIds": [
+        "artist-039"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "18:15",
+      "endTime": "19:00",
+      "type": "workshop",
+      "description": "A fictional workshop exploring environmental storytelling through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-040",
+      "title": "A Practice of Attention — Dawn Studies",
+      "performerIds": [
+        "artist-040"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-19",
+      "dayLabel": "Saturday",
+      "startTime": "19:15",
+      "endTime": "20:00",
+      "type": "installation_performance",
+      "description": "A fictional installation performance exploring ecology through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-041",
+      "title": "Listening to the Unseen — Loam Project",
+      "performerIds": [
+        "artist-041"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "10:15",
+      "endTime": "11:00",
+      "type": "workshop",
+      "description": "A fictional workshop exploring sound art through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-042",
+      "title": "River Memory — Silver Fieldworks",
+      "performerIds": [
+        "artist-042"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "11:15",
+      "endTime": "12:00",
+      "type": "installation_performance",
+      "description": "A fictional installation performance exploring field recording through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-043",
+      "title": "A Map Made of Wind — Hollow Soundcraft",
+      "performerIds": [
+        "artist-043"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "12:15",
+      "endTime": "13:00",
+      "type": "listening_session",
+      "description": "A fictional listening session exploring experimental music through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-044",
+      "title": "Soil Frequencies — Mica Frequency",
+      "performerIds": [
+        "artist-044"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "13:15",
+      "endTime": "14:00",
+      "type": "sound_walk",
+      "description": "A fictional sound walk exploring environmental storytelling through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-045",
+      "title": "Night Insect Orchestra — North Current",
+      "performerIds": [
+        "artist-045"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "14:15",
+      "endTime": "15:00",
+      "type": "live_set",
+      "description": "A fictional live set exploring ecology through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-046",
+      "title": "The Quiet Between Birds — Silt Laboratory",
+      "performerIds": [
+        "artist-046"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "15:15",
+      "endTime": "16:00",
+      "type": "workshop",
+      "description": "A fictional workshop exploring sound art through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-047",
+      "title": "Rain Archive — Bloom Practice",
+      "performerIds": [
+        "artist-047"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "16:15",
+      "endTime": "17:00",
+      "type": "installation_performance",
+      "description": "A fictional installation performance exploring field recording through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-048",
+      "title": "Moss and Machines — Lowland Signal",
+      "performerIds": [
+        "artist-048"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "17:15",
+      "endTime": "18:00",
+      "type": "listening_session",
+      "description": "A fictional listening session exploring experimental music through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-049",
+      "title": "Watershed Resonance — Flora Tapes",
+      "performerIds": [
+        "artist-049"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "18:15",
+      "endTime": "19:00",
+      "type": "sound_walk",
+      "description": "A fictional sound walk exploring environmental storytelling through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-050",
+      "title": "A Field Guide to Silence — Static Sessions",
+      "performerIds": [
+        "artist-050"
+      ],
+      "stageId": "river-stage",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "19:15",
+      "endTime": "20:00",
+      "type": "live_set",
+      "description": "A fictional live set exploring ecology through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-051",
+      "title": "The Sound of Slow Growth — Rill Studies",
+      "performerIds": [
+        "artist-051"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "10:15",
+      "endTime": "11:00",
+      "type": "workshop",
+      "description": "A fictional workshop exploring sound art through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-052",
+      "title": "Reeds in Conversation — Ashen Works",
+      "performerIds": [
+        "artist-052"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "11:15",
+      "endTime": "12:00",
+      "type": "installation_performance",
+      "description": "A fictional installation performance exploring field recording through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-053",
+      "title": "Listening Beneath the City — Meadow Listening",
+      "performerIds": [
+        "artist-053"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "12:15",
+      "endTime": "13:00",
+      "type": "listening_session",
+      "description": "A fictional listening session exploring experimental music through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-054",
+      "title": "Air, Stone, and Signal — Tern Soundcraft",
+      "performerIds": [
+        "artist-054"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "13:15",
+      "endTime": "14:00",
+      "type": "sound_walk",
+      "description": "A fictional sound walk exploring environmental storytelling through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-055",
+      "title": "A Small Weather System — Nightjar Acoustics",
+      "performerIds": [
+        "artist-055"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "14:15",
+      "endTime": "15:00",
+      "type": "live_set",
+      "description": "A fictional live set exploring ecology through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-056",
+      "title": "Echoes from the Canopy — Lichen Assembly",
+      "performerIds": [
+        "artist-056"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "15:15",
+      "endTime": "16:00",
+      "type": "workshop",
+      "description": "A fictional workshop exploring sound art through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-057",
+      "title": "Microhabitat Symphony — Hush Laboratory",
+      "performerIds": [
+        "artist-057"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "16:15",
+      "endTime": "17:00",
+      "type": "installation_performance",
+      "description": "A fictional installation performance exploring field recording through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-058",
+      "title": "The Long Breath of Water — Tundra Circuit",
+      "performerIds": [
+        "artist-058"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "17:15",
+      "endTime": "18:00",
+      "type": "listening_session",
+      "description": "A fictional listening session exploring experimental music through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-059",
+      "title": "Wind Through Forgotten Places — Murmur Collective",
+      "performerIds": [
+        "artist-059"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "18:15",
+      "endTime": "19:00",
+      "type": "sound_walk",
+      "description": "A fictional sound walk exploring environmental storytelling through attentive listening.",
+      "isFictional": true
+    },
+    {
+      "id": "event-060",
+      "title": "A Practice of Attention — Estuary Tapes",
+      "performerIds": [
+        "artist-060"
+      ],
+      "stageId": "canopy-lab",
+      "date": "2027-06-20",
+      "dayLabel": "Sunday",
+      "startTime": "19:15",
+      "endTime": "20:00",
+      "type": "live_set",
+      "description": "A fictional live set exploring ecology through attentive listening.",
+      "isFictional": true
+    }
+  ],
+  "dataNotes": {
+    "fictionalContent": true,
+    "dateFormat": "YYYY-MM-DD",
+    "timeFormat": "24-hour local time",
+    "relationships": "programme.performerIds reference performers.id; programme.stageId references stages.id.",
+    "scheduleNote": "Each listed programme item lasts 45 minutes. Items are spaced at 60-minute intervals within each stage, leaving 15 minutes between items."
+  }
+}
